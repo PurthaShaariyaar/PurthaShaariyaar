@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PurthaShaariyaar
-- 👀 I’m interested in creating software applications that no one else has built before, because copying an idea would be boring. 
+- 👀 I’m interested in creating and designing Web and iOS Based Apps!
 - 🌱 I’m currently learning Software Engineering at Ontario Tech University. 
 - 💞️ I’m looking to collaborate on something challenging, maybe we can talk about an idea before we actually start building it!
 - 📫 How to reach me: Instagram @viewthefit & Twitter @PurthaS
